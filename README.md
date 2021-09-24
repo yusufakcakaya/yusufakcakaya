@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning Python
 - 💬 Ask me about anything
-- 📫 How to reach me: **yusufakcakaya14@gmail.com
+- 📫 How to reach me: **yusufakcakaya14@gmail.com**
 
 -->
 ## Connect with me:
