@@ -1,18 +1,11 @@
-### Hi there 👋
-
-<!--<h3 align="center">
-![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
-</h3> -->
-
-[![160744959694494596](https://user-images.githubusercontent.com/6764957/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png)](https://github.com/yusufakcakaya?tab=repositories)
+### Hi there I'am Yusuf👋
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+- 🔭 I’m currently working on Data Science
+- 🌱 I’m currently learning Python
+- 💬 Ask me about anything
+- 📫 How to reach me: https://www.linkedin.com/in/yusuf-ak%C3%A7akaya-9526a0171/
+
 -->
