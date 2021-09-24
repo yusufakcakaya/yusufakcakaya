@@ -9,6 +9,13 @@
 - 💬 Ask me about anything ✌🏻
 - 📫 How to reach me: **yusufakcakaya14@gmail.com**
 
+### Languages
+
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+
 -->
 ## Connect with me:
 <p align="left">
