@@ -15,5 +15,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/yusuf-ak%C3%A7akaya-9526a0171/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/yusufakckya/?hl=tr/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
