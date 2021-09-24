@@ -8,6 +8,12 @@
 - 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning Python
 - 💬 Ask me about anything
-- 📫 How to reach me: https://www.linkedin.com/in/yusuf-ak%C3%A7akaya-9526a0171/
+- 📫 How to reach me: **yusufakcakaya14@gmail.com
 
 -->
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/yusuf-ak%C3%A7akaya-9526a0171/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+</p>
