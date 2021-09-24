@@ -9,12 +9,14 @@
 - 💬 Ask me about anything ✌🏻
 - 📫 How to reach me: **yusufakcakaya14@gmail.com**
 
-### Languages
+## 🚀 Languages and Tools:
 
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+<p align="left"> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 
+</p>
 
 -->
 ## Connect with me:
