@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning Python 🐍
+- 🌱 I’m currently learning Deep Learning 🐍
 - 💬 Ask me about anything ✌🏻
 - 📫 How to reach me: **yusufakcakaya14@gmail.com**
 
