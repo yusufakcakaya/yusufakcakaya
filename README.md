@@ -20,6 +20,12 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://https://www.selenium.dev" target="_blank"> <img src="https://img.icons8.com/ios/48/000000/selenium-test-automation.png"/> </a>
 
+    <a href="https://keras.io/" target="_blank"> <img src=![image](https://user-images.githubusercontent.com/46165841/154076728-15747c2d-2fb7-4438-94b3-e4d9a7d1656f.png)/> </a>
+    
+    
+    
+
+
 
 
 </p>
