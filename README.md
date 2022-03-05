@@ -1,11 +1,8 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="120px"/></a>
-
+## YUSUF AKCAKAYA
 - 📫 How to reach me: **yusufakcakaya14@gmail.com**
 
 </p>
 
--->
-## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/yusuf-ak%C3%A7akaya-9526a0171/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
