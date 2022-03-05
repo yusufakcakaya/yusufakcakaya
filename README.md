@@ -1,5 +1,6 @@
 ## YUSUF AKCAKAYA
-- 📫 How to reach me: **yusufakcakaya14@gmail.com**
+**
+📫 How to reach me: **yusufakcakaya14@gmail.com**
 
 </p>
 
@@ -10,7 +11,7 @@
 
 </p>
 
-## 📊 My Github Stats
+## 📊 Github Stats
 
   <br/>
     <a href="https://github.com/yusufakcakaya/github-readme-stats"><img alt="Yusuf Akcakaya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yusufakcakaya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
