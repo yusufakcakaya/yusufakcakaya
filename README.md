@@ -1,5 +1,7 @@
-## YUSUF AKCAKAYA
-**
+## 🎃 YUSUF AKCAKAYA 🎃 
+
+***
+
 📫 How to reach me: **yusufakcakaya14@gmail.com**
 
 </p>
